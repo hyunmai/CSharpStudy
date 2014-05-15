@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day05", "Day05\Day05.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day07", "Day07\Day07.csproj", "{E3EAF370-0336-4410-8E64-BFDF1722021D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day07.GraphSerialize", "Day07.GraphSerialize\Day07.GraphSerialize.csproj", "{B9974183-7D14-439C-A88E-3ECB2EF0BF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day07.GraphSerialize.Test", "Day07.GraphSerialize.Test\Day07.GraphSerialize.Test.csproj", "{64310441-3FD7-452A-A924-AF388DC0C8B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E3EAF370-0336-4410-8E64-BFDF1722021D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3EAF370-0336-4410-8E64-BFDF1722021D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3EAF370-0336-4410-8E64-BFDF1722021D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9974183-7D14-439C-A88E-3ECB2EF0BF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9974183-7D14-439C-A88E-3ECB2EF0BF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9974183-7D14-439C-A88E-3ECB2EF0BF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9974183-7D14-439C-A88E-3ECB2EF0BF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64310441-3FD7-452A-A924-AF388DC0C8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64310441-3FD7-452A-A924-AF388DC0C8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64310441-3FD7-452A-A924-AF388DC0C8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64310441-3FD7-452A-A924-AF388DC0C8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
